@@ -7,6 +7,7 @@
          - Git - source control management 
          - kubectl - interact with EKs cluster
      # Set up 
+     (Environment )[images/template1-designer.png]
        - Networking 
           - Virtual Private Cloud (VPC), Internet Gateway (IGW), Route Table, Routes, Subnets and Security Groups (SG)
        - AWS EKS Cluster 
