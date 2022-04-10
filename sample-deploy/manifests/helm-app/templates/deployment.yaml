@@ -28,3 +28,11 @@ spec:
           httpGet:
             path: /
             port: 8000
+        livenessProbe:
+          httpGet:
+            path:  /upload
+            port:  8000
+        readinessProbe:
+          httpGet:
+            path: /upload
+            port: 8000    
