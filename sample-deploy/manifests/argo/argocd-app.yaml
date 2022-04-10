@@ -12,7 +12,7 @@ spec:
     helm:
       valueFiles:
         - values.yaml
-    path: manifests/helm-app
-    repoURL: https://github.com/Abszissex/medium-argocd.git
+    path: sample-deploy/manifests/helm-app
+    repoURL: https://github.com/espirado/argo-eks.git
     targetRevision: HEAD
   syncPolicy: {}

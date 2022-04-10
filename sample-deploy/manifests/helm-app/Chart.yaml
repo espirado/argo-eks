@@ -2,4 +2,4 @@ apiVersion: v1
 name: helm-app
 version: 1.0.0
 maintainers:
-  - name: Pascal Zwikirsch
+  - name: Espira Andrew
