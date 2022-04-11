@@ -15,7 +15,7 @@ spec:
         app: myserver
     spec:
       containers:
-      - image: espirado/kokotest
+      - image: espirado/saramiscore
         name: myserver
         imagePullPolicy: IfNotPresent
         ports:
